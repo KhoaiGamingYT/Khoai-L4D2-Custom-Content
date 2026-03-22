@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/infected/Diablo/storm_hero_diablo_base_v01_diff"
+	"$bumpmap"	"models/infected/Diablo/storm_hero_diablo_base_v01_norm"
+	//"$phongexponenttexture" "models/infected/Diablo/storm_hero_diablo_base_v01_spec"
+		
+
+
+                 "$phong" "1" 
+                 "$phongexponent" "55"
+                 "$phongboost" ".1"
+                 "$phongfresnelranges" "[1 1 1 ]" 
+				 
+	$detail "models/infected/Diablo/storm_hero_diablo_base_v01_emis"
+	$detailscale 1
+	$detailblendfactor "0.1"
+	$detailblendmode 5
+	"$nodecal "1"
+}

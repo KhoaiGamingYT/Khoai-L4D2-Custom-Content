@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dragon/T_Dragon_Wing_D"
+	$nocull 1
+}

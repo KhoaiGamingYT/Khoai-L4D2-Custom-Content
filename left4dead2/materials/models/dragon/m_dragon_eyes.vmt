@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dragon/T_Dragon_Eyes_D"
+	$bumpmap "models/dragon/T_Dragon_Eyes_N"
+}
